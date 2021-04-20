@@ -200,6 +200,9 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
+        y: {
+          suggestedMax: 5,
+        },
         yAxes: [
           {
             ticks: {
@@ -236,6 +239,9 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
+        y: {
+          suggestedMax: 5,
+        },
         yAxes: [
           {
             ticks: {
@@ -310,6 +316,9 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
+        y: {
+          suggestedMax: 5,
+        },
         yAxes: [
           {
             ticks: {
@@ -346,6 +355,9 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
+        y: {
+          suggestedMax: 5,
+        },
         yAxes: [
           {
             ticks: {
@@ -383,6 +395,9 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
+        y: {
+          suggestedMax: 5,
+        },
         yAxes: [
           {
             ticks: {
@@ -420,6 +435,9 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
+        y: {
+          suggestedMax: 5,
+        },
         yAxes: [
           {
             ticks: {
@@ -457,6 +475,9 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
+        y: {
+          suggestedMax: 5,
+        },
         yAxes: [
           {
             ticks: {
@@ -493,6 +514,9 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
+        y: {
+          suggestedMax: 5,
+        },
         yAxes: [
           {
             ticks: {
@@ -529,6 +553,9 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
+        y: {
+          suggestedMax: 5,
+        },
         yAxes: [
           {
             ticks: {
