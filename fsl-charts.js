@@ -23,6 +23,7 @@ $(document).ready(function () {
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -59,6 +60,7 @@ $(document).ready(function () {
           {
             ticks: {
               beginAtZero: true,
+              max: 100,
             },
           },
         ],
@@ -95,6 +97,7 @@ $(document).ready(function () {
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -131,6 +134,7 @@ $(document).ready(function () {
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -167,6 +171,7 @@ $(document).ready(function () {
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -200,13 +205,11 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
-        y: {
-          suggestedMax: 5,
-        },
         yAxes: [
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -239,13 +242,11 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
-        y: {
-          suggestedMax: 5,
-        },
         yAxes: [
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -283,6 +284,7 @@ $(document).ready(function () {
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -316,13 +318,11 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
-        y: {
-          suggestedMax: 5,
-        },
         yAxes: [
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -355,13 +355,11 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
-        y: {
-          suggestedMax: 5,
-        },
         yAxes: [
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -395,13 +393,11 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
-        y: {
-          suggestedMax: 5,
-        },
         yAxes: [
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -435,13 +431,11 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
-        y: {
-          suggestedMax: 5,
-        },
         yAxes: [
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -475,13 +469,11 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
-        y: {
-          suggestedMax: 5,
-        },
         yAxes: [
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -514,13 +506,11 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
-        y: {
-          suggestedMax: 5,
-        },
         yAxes: [
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
@@ -553,13 +543,11 @@ $(document).ready(function () {
         display: false,
       },
       scales: {
-        y: {
-          suggestedMax: 5,
-        },
         yAxes: [
           {
             ticks: {
               beginAtZero: true,
+              max: 5,
             },
           },
         ],
