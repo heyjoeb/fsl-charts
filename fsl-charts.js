@@ -372,6 +372,81 @@ $(document).ready(function () {
     },
   });
 
+  var ctxComp = document.getElementById("npsComp");
+  var npsComp = new Chart(ctxComp, {
+    type: "bar",
+    data: {
+      labels: ["2021 - Q1"],
+      datasets: [
+        {
+          label: "I feel my compensation is competitive with the market",
+          data: [3.9],
+          backgroundColor: ["rgba(24, 204, 85,100)"],
+          borderColor: ["rgba(24, 204, 85,100)"],
+          borderWidth: 1,
+        },
+      ],
+    },
+    options: {
+      legend: {
+        display: false,
+      },
+      scales: {
+        yAxes: [
+          {
+            ticks: {
+              beginAtZero: true,
+              max: 5,
+            },
+          },
+        ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
+      },
+    },
+  });
+
+  var ctxRec = document.getElementById("npsRec");
+  var npsRec = new Chart(ctxRec, {
+    type: "bar",
+    data: {
+      labels: ["2021 - Q1"],
+      datasets: [
+        {
+          label:
+            "How likely are you to recommend FullStack Labs as a place to work to your family, friends, or former coworkers?",
+          data: [8.7],
+          backgroundColor: ["rgba(24, 204, 85,100)"],
+          borderColor: ["rgba(24, 204, 85,100)"],
+          borderWidth: 1,
+        },
+      ],
+    },
+    options: {
+      legend: {
+        display: false,
+      },
+      scales: {
+        yAxes: [
+          {
+            ticks: {
+              beginAtZero: true,
+              max: 10,
+            },
+          },
+        ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
+      },
+    },
+  });
+
   var ctxStillWorking = document.getElementById("npsStillWorking");
   var npsStillWorking = new Chart(ctxStillWorking, {
     type: "bar",
