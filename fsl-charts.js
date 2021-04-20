@@ -26,6 +26,11 @@ $(document).ready(function () {
             },
           },
         ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
       },
     },
   });
@@ -55,6 +60,11 @@ $(document).ready(function () {
             ticks: {
               beginAtZero: true,
             },
+          },
+        ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
           },
         ],
       },
@@ -88,6 +98,11 @@ $(document).ready(function () {
             },
           },
         ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
       },
     },
   });
@@ -119,6 +134,11 @@ $(document).ready(function () {
             },
           },
         ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
       },
     },
   });
@@ -148,6 +168,11 @@ $(document).ready(function () {
             ticks: {
               beginAtZero: true,
             },
+          },
+        ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
           },
         ],
       },
@@ -182,6 +207,11 @@ $(document).ready(function () {
             },
           },
         ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
       },
     },
   });
@@ -211,6 +241,11 @@ $(document).ready(function () {
             ticks: {
               beginAtZero: true,
             },
+          },
+        ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
           },
         ],
       },
@@ -245,6 +280,11 @@ $(document).ready(function () {
             },
           },
         ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
       },
     },
   });
@@ -277,6 +317,11 @@ $(document).ready(function () {
             },
           },
         ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
       },
     },
   });
@@ -306,6 +351,11 @@ $(document).ready(function () {
             ticks: {
               beginAtZero: true,
             },
+          },
+        ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
           },
         ],
       },
@@ -340,6 +390,11 @@ $(document).ready(function () {
             },
           },
         ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
       },
     },
   });
@@ -370,6 +425,11 @@ $(document).ready(function () {
             ticks: {
               beginAtZero: true,
             },
+          },
+        ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
           },
         ],
       },
@@ -404,6 +464,11 @@ $(document).ready(function () {
             },
           },
         ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
       },
     },
   });
@@ -435,6 +500,11 @@ $(document).ready(function () {
             },
           },
         ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
+          },
+        ],
       },
     },
   });
@@ -464,6 +534,11 @@ $(document).ready(function () {
             ticks: {
               beginAtZero: true,
             },
+          },
+        ],
+        xAxes: [
+          {
+            barPercentage: 0.4,
           },
         ],
       },
